@@ -1,13 +1,15 @@
 package com.edu.springboot.app.springbootweb.models;
 
-import lombok.Data;
+import lombok.Builder;
+import lombok.Value;
 
-@Data
+@Value
+@Builder
 public class User {
 
-  private String name;
+  String name;
 
-  private String surname;
+  String surname;
 
-  private String email;
+  String email;
 }
