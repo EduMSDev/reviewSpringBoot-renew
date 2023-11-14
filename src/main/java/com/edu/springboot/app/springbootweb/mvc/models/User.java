@@ -1,4 +1,4 @@
-package com.edu.springboot.app.springbootweb.models;
+package com.edu.springboot.app.springbootweb.mvc.models;
 
 import lombok.Builder;
 import lombok.Value;

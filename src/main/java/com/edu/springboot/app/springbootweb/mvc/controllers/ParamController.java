@@ -1,4 +1,4 @@
-package com.edu.springboot.app.springbootweb.controllers;
+package com.edu.springboot.app.springbootweb.mvc.controllers;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.stereotype.Controller;

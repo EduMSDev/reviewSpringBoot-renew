@@ -1,6 +1,6 @@
-package com.edu.springboot.app.springbootweb.controllers;
+package com.edu.springboot.app.springbootweb.mvc.controllers;
 
-import com.edu.springboot.app.springbootweb.models.User;
+import com.edu.springboot.app.springbootweb.mvc.models.User;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Value;

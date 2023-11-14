@@ -1,4 +1,4 @@
-package com.edu.springboot.app.springbootweb.controllers;
+package com.edu.springboot.app.springbootweb.mvc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

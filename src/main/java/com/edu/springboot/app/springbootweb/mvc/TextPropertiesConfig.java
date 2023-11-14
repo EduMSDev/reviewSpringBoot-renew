@@ -1,4 +1,4 @@
-package com.edu.springboot.app.springbootweb;
+package com.edu.springboot.app.springbootweb.mvc;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
